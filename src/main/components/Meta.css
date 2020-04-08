@@ -1,0 +1,13 @@
+.meta-main {
+    animation: pojavljivanje 2s ease-in;
+}
+
+.kliknut {
+    background-color: blue;
+}
+
+
+@keyframes pojavljivanje {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
